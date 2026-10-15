@@ -1,0 +1,17 @@
+# Saida de build do .NET
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de usuario/IDE (Visual Studio, Rider, VS Code)
+*.user
+*.suo
+.vs/
+.idea/
+*.swp
+
+# Logs locais de execucao (dotnet run, etc.)
+*.log
+
+# Segredos locais, caso algum dia existam (nao usado neste projeto)
+*.env
+appsettings.*.local.json
